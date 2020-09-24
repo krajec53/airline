@@ -1,0 +1,7 @@
+/Users/colekrajewski/Projects/Airline/Airline/bin/Debug/Airline.exe
+/Users/colekrajewski/Projects/Airline/Airline/bin/Debug/Airline.pdb
+/Users/colekrajewski/Projects/Airline/Airline/obj/Debug/Airline.csprojAssemblyReference.cache
+/Users/colekrajewski/Projects/Airline/Airline/obj/Debug/Airline.csproj.CoreCompileInputs.cache
+/Users/colekrajewski/Projects/Airline/Airline/obj/Debug/Airline.exe
+/Users/colekrajewski/Projects/Airline/Airline/obj/Debug/Airline.pdb
+/Users/colekrajewski/Projects/Airline/Airline/bin/Debug/Flights.txt
